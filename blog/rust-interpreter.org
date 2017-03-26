@@ -1,0 +1,10 @@
+#+TITLE:       Writing an Interpreter in Rust
+#+AUTHOR:      JONATHAN ROTHBERG
+#+EMAIL:       jonnywalker@JONATHANs-iMac.local
+#+DATE:        2017-03-25 Sat
+#+URI:         /blog/%y/%m/%d/writing-an-interpreter-in-rust
+#+KEYWORDS:    rust,interpreter,monkey,ast,lexer,parser,evaluator
+#+TAGS:        Rust,Interpreter,Monkey Language
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Building an interpreter with Rust.  Write a full interpreter, the lexer, parser and evaluator all in Rust.
